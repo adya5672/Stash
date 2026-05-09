@@ -15,7 +15,7 @@ namespace stash.Models
     public class ClipItem
     {
         public Guid Id { get; set; }
-        public ClipType ClipType { get; set; }
+        public ClipType Type { get; set; }
         public string? Content {  get; set; }
         public byte[]? ImageData { get; set; }
         public DateTime CopiedAt { get; set;  }
