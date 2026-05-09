@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stash")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0efcbabfbb7f2f664ae302e80c243ea15171961c")]
 [assembly: System.Reflection.AssemblyProductAttribute("stash")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stash")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
